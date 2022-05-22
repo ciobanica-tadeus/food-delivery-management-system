@@ -1,0 +1,11 @@
+Bill nr: 1
+OrderID: 8
+Date: Mon May 23 00:35:24 EEST 2022
+Client ID: 5
+Products ordered: 
+ # The Original Three-Ingredient Rub  - 47 lei
+ # Red Pepper Sauce  - 62 lei
+ # Toasted Corn Crisps  - 66 lei
+ # Fish Stock  - 27 lei
+ # Quatre-Épices  - 81 lei
+Total price: 283 lei

@@ -1,0 +1,10 @@
+Bill nr: 1
+OrderID: 13
+Date: Sun May 22 10:45:09 EEST 2022
+Client ID: 1
+Products ordered: 
+ # Classic Salad  - 49 lei
+ # Hot-and-Sour Cabbage Salad  - 29 lei
+ # Restorative Beef Broth  - 58 lei
+ # Scallion Cilantro Pancakes  - 71 lei
+Total price: 207 lei

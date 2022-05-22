@@ -1,0 +1,10 @@
+Bill nr: 1
+OrderID: 7
+Date: Mon May 23 00:35:19 EEST 2022
+Client ID: 5
+Products ordered: 
+ # Barbecued Shrimp  - 71 lei
+ # Classic Salad  - 49 lei
+ # Zinfandel Beef Stock  - 30 lei
+ # Tomato Salsa  - 42 lei
+Total price: 192 lei

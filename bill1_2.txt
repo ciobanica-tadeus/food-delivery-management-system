@@ -1,0 +1,9 @@
+Bill nr: 1
+OrderID: 2
+Date: Sun May 22 16:33:08 EEST 2022
+Client ID: 5
+Products ordered: 
+ # Fresh Corn Tortillas  - 79 lei
+ # Frittata Rolls Stuffed with Ricotta and Fresh Mint  - 25 lei
+ # Fresh Mint Chutney  - 55 lei
+Total price: 159 lei

@@ -1,0 +1,10 @@
+Bill nr: 1
+OrderID: 1
+Date: Sun May 22 16:32:54 EEST 2022
+Client ID: 5
+Products ordered: 
+ # Fresh Corn Tortillas  - 79 lei
+ # "Endive ""Spoons"" with Lemon-Herb Goat Cheese "  - 50 lei
+ # Fish Stock  - 27 lei
+ # Zinfandel Beef Stock  - 30 lei
+Total price: 186 lei
