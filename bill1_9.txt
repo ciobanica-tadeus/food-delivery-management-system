@@ -1,0 +1,10 @@
+Bill nr: 1
+OrderID: 9
+Date: Mon May 23 11:06:25 EEST 2022
+Client ID: 5
+Products ordered: 
+ # Toasted Corn Crisps  - 66 lei
+ # Hot-and-Sour Cabbage Salad  - 29 lei
+ # Chipotle Tomato Salsa  - 98 lei
+ # Chicken Stock  - 64 lei
+Total price: 257 lei

@@ -13,7 +13,7 @@ public class EmployeeView extends JFrame {
 
     public EmployeeView() {
         pendingLabel.setBounds(10, 10, 100, 20);
-        ordersLabel.setBounds(10, 20, 200, 200);
+        ordersLabel.setBounds(10, 20, 350, 400);
         mainPanel.setLayout(null);
         mainPanel.add(pendingLabel);
         mainPanel.add(ordersLabel);

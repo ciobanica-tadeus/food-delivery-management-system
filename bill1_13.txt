@@ -1,0 +1,9 @@
+Bill nr: 1
+OrderID: 13
+Date: Mon May 23 11:10:36 EEST 2022
+Client ID: 9
+Products ordered: 
+ # Quick & Spicy Asian Pickles  - 48 lei
+ # Tomato Salsa  - 42 lei
+ # Homemade Montreal Steak Seasoning  - 74 lei
+Total price: 164 lei
