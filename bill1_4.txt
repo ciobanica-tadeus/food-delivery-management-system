@@ -1,9 +1,0 @@
-Bill nr: 1
-OrderID: 4
-Date: Sun May 22 16:33:41 EEST 2022
-Client ID: 7
-Products ordered: 
- # Fresh Corn Tortillas  - 79 lei
- # Grilled Cumin Chicken Breasts with Avocado Salsa  - 20 lei
- # Deep-Dish Wild Blueberry Pie  - 34 lei
-Total price: 133 lei

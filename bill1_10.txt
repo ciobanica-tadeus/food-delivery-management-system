@@ -1,9 +1,0 @@
-Bill nr: 1
-OrderID: 10
-Date: Mon May 23 11:06:33 EEST 2022
-Client ID: 5
-Products ordered: 
- # Chicken Stock  - 64 lei
- # Prosciutto-Wrapped Asparagus Spears  - 25 lei
- # Homemade Montreal Steak Seasoning  - 74 lei
-Total price: 163 lei

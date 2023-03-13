@@ -1,8 +1,0 @@
-Bill nr: 1
-OrderID: 6
-Date: Sun May 22 16:56:16 EEST 2022
-Client ID: 5
-Products ordered: 
- # Blackberry Syrup  - 10 lei
- # Apple Chips  - 10 lei
-Total price: 20 lei
