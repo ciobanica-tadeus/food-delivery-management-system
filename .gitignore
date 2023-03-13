@@ -1,5 +1,6 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+/javadocs/
 
 ### STS ###
 .apt_generated
@@ -15,3 +16,7 @@
 *.iws
 *.iml
 *.ipr
+*.txt
+!dataSerialization.txt
+*.doc
+*.docx

@@ -389,6 +389,7 @@ public class DeliveryService extends Observable implements IDeliveryServiceProce
                     filter(e -> e.getKey().getTotalPrice() >= amount).collect(Collectors.toMap(e -> e.getKey(), e -> e.getValue()));
             if (search.size() > 0) {
                 finalResultList.add(u);
+
             }
         }
         return finalResultList;

@@ -1,7 +1,5 @@
 package PresentationLayer;
 
-import DataLayer.Employee;
-
 import javax.swing.*;
 import java.awt.*;
 
